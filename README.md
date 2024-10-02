@@ -1,6 +1,6 @@
 # Files:
-##### generate_embeddings.ipynb - For generating vector embeddings from dataset and saving them
-##### app.py - For the streamlit UI
+#### generate_embeddings.ipynb - For generating vector embeddings from dataset and saving them
+#### app.py - For the streamlit UI
 
 
 
